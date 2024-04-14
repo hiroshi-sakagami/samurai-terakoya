@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <tiltle>私の趣味</tiltle>  
+        <meta name="description" content="私の趣味についての記述"
+            <meta charset="utg-8"
+    </head>
+        <body>
+            <header>
+                <h1>私の趣味</h1>
+            </header>
+                    <main>
+                        <p>私は中学校時代にサッカーを始めました</p>
+                        <p>現在はサッカーのコーチとして活動をして、趣味のサッカーを楽しんています。</p>
+                        <img src="images/sample.jpg" alt="画像"
+                    </main>
+
+        </body>
+</html>
